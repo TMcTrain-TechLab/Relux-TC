@@ -1,8 +1,6 @@
 # Relux-TC
 Relux-Custom-Toolchanger
 
-# RELUX-TC // High-Speed Klipper Toolchanger
-
 [![Part of Relux-9X](https://shields.io)](https://github.com)
 [![YouTube](https://shields.io)](https://youtube.com)
 [![Firmware](https://shields.io)](https://klipper3d.org)
