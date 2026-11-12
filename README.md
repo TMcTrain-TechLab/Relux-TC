@@ -1,11 +1,11 @@
 # Relux-TC
 Relux-Custom-Toolchanger
 
-[![Part of Relux-9X](https://shields.io)](https://github.com)
-[![YouTube](https://shields.io)](https://youtube.com)
+[![Part of Relux-9X](https://shields.io)](https://github.com/TMcTrain-TechLab/Relux-9X) ; 
+[![YouTube](https://shields.io)](https://youtube.com) ; 
 [![Firmware](https://shields.io)](https://klipper3d.org)
 
-**Relux-TC** is a custom, ground-up toolchanger and multi-material extruder system engineered specifically for Klipper and high-acceleration Linear Magnetic Drives (LMD). Developed as the core toolhead architecture for the [Relux-9X](https://github.com), it is built to handle abrasive engineering composites (ABS-CF, ASA-GF) and rapid, automated filament changes.
+**Relux-TC** is a custom, ground-up toolchanger and multi-material extruder system engineered specifically for Klipper and high-acceleration Linear Magnetic Drives (LMD). Developed as the core toolhead architecture for the [Relux-9X](https://github.com/TMcTrain-TechLab/Relux-9X), it is built to handle abrasive engineering composites (ABS-CF, ASA-GF) as well as the softest of filaments and rapid, automated filament changes.
 
 ---
 
@@ -58,5 +58,5 @@ Relux-TC follows a modular, self-replicating build strategy—starting with a si
 ## 🤝 Follow the Build
 
 Watch the prototyping, macro testing, and full assembly logs on **TMcTrain TechLab**:
-* **YouTube:** [TMcTrain TechLab](https://youtube.com)
+* **YouTube:** [TMcTrain || TechLab](https://www.youtube.com/@TMcTrainTechLab)
 * **Discord:** `@TMcTrain`
